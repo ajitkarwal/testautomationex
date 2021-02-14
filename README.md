@@ -5,7 +5,7 @@ Open Terminal
 ## Download and setup maven
 1. Download Maven (Reference https://maven.apache.org/install.html)
 
-wget https://apache.mirror.digitalpacific.com.au/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip
+```wget https://apache.mirror.digitalpacific.com.au/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip```
 
 2. Unzip
 ```unzip apache-maven-3.6.3-bin.zip```
