@@ -28,3 +28,5 @@ cd testAutomation
 xattr -d com.apple.quarantine chromedriver```
 
 ## Import the project into IntelliJ
+
+## Install VS Code and install JSON Tools extension
