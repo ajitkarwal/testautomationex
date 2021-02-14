@@ -14,6 +14,7 @@ Open Terminal
 3. Add the bin directory of the created directory apache-maven-3.6.3 to the PATH environment variable
 
 ```vi ~/.bash_profile (or .zshrc)```
+
 ```export PATH=~/apache-maven-3.6.3/bin:$PATH```
 
 ## Setup Project
